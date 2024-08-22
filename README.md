@@ -6,7 +6,7 @@
 
 
 ## About me :mortar_board:
-I am a student, currently studying in Amity University Mumbai. I'm fascinated with Artificial Intelligence and Machine Learning technologies 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **Knowledge is the eye of desire and can become the pilot of the soul**. 🧠
+I am a student from Amity University Mumbai. I'm fascinated with Artificial Intelligence and Machine Learning technologies 😍. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **Knowledge is the eye of desire and can become the pilot of the soul**. 🧠
 
 ## What I know :computer:
 - **Programming Languages (Data Structures & Algorithms)**
